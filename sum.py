@@ -1,4 +1,4 @@
 a = 10
 b = 20
 
-print(a+b)
+print(f"The sum is: ", a+b)
